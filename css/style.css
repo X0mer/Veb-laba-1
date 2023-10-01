@@ -67,6 +67,8 @@ body {
 .remove-from-cart{
     display: inline;
 }
+.navbar-fixed-top {
+    background-color: #092286;
 footer {
     margin: 50px 0;
 }
